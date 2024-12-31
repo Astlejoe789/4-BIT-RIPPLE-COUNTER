@@ -81,7 +81,7 @@ endmodule
 ![WhatsApp Image 2024-12-17 at 13 25 57_0ddfbabc](https://github.com/user-attachments/assets/053f334b-09a5-4546-ab37-0320f5a40348)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-![WhatsApp Image 2024-12-17 at 13 25 57_7fd5b79a](https://github.com/user-attachments/assets/7ec9aa85-d3c1-4821-aa3c-49b4519a9036)
+![image](https://github.com/user-attachments/assets/1d6de443-f829-4a8f-a87d-d17d6c41565f)
 
 **RESULTS**
 
